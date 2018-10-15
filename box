@@ -79,6 +79,9 @@ http://rr2.dens.tv/s/s24/index2.m3u8
 #EXTINF:-1 tvg-logo="http://oi68.tinypic.com/10mivs5.jpg" group-title="Entertainment",Zee Cafe
 https://z5ams.akamaized.net/zeecafehd/tracks-v2a1/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/a1puti.jpg" group-title="Entertainment",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://oi66.tinypic.com/293iupy.jpg" group-title="Entertainment",Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
@@ -114,6 +117,9 @@ http://rr2.dens.tv/s/s33/index2.m3u8
 
 #EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2cdzc4j.jpg" group-title="Movies",Zee Bioskop
 http://rr2.dens.tv/s/s32/index2.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/30lkx3b.jpg" group-title="Movies",Fox Movie Action
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://oi68.tinypic.com/24d1zcz.jpg" group-title="Movies",&flix HD
 http://z5ams.akamaized.net/andflixhd/tracks-v2a1/index.m3u8
