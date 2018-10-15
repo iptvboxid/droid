@@ -279,5 +279,11 @@ http://202.80.222.130/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="http://oi67.tinypic.com/anehzt.jpg" group-title="Local",DAAI TV
 http://rr2.dens.tv/s/s13/index2.m3u8
 
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2qibqbo.jpg" group-title="Local",USEEPRIME
+http://edge.telin.swiftserve.com/live/LiveOONA/useeprime-d4675f3da776/playlist.m3u8?stime=20181014220001&etime=20181015220001&encoded=06b7c14f8e76b27b39c8a
+
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/4hz4mg.jpg" group-title="Local",ANTARA
+http://edge.telin.swiftserve.com/live/LiveOONA/antara-da5a865f3284/chunklist.m3u8?stime=20181014220001&etime=20181015220001&encoded=020d840f03cb7077d4676
+
 #EXTINF:-1 tvg-logo="http://oi65.tinypic.com/28s2cjl.jpg" group-title="Local",Elshinta
 http://210.210.155.35/session/710a770c-3c30-11e8-b9cb-c81f66f89318/qwr9ew/s/s10/index1.m3u8
